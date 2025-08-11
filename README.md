@@ -41,5 +41,3 @@ Para aprender mais sobre desenvolvimento com Expo, veja:
 
 - [Documentação do Expo](https://docs.expo.dev/): Aprenda o básico ou aprofunde-se com nossos [guias](https://docs.expo.dev/guides).
 - [Tutorial Learn Expo](https://docs.expo.dev/tutorial/introduction/): Siga um tutorial passo a passo para criar um projeto que roda em Android, iOS e web.
-
-## Junte-se à comunidade
